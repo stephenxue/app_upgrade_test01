@@ -3,13 +3,13 @@
     <channel>
         <title>main</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 24 Aug 2026 18:03:19 +1000</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Mon, 24 Aug 2026 22:24:21 +1000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.comstephenxue/app_upgrade_test01/releases/download/v1.0.0/main_1.0.0.zip" length="9572532" type="application/octet-stream" sparkle:edSignature="nT4ULreKHgeAgh35vNMIG5M5IAfI6dOHKHv2KF2YkbSX0uGiWCHprReV1r09KEQNlr9uI9r3qNmslNqCNHGlBQ=="/>
+            <enclosure url="https://github.comstephenxue/app_upgrade_test01/releases/download/v1.1.0/main_1.1.0.zip" length="9572529" type="application/octet-stream" sparkle:edSignature="AbErGowAOzPyBd4y7+pX+t2X9Du+X+9J3//kodGtoUDzqU+yP96ajGoPkb1FLdyTUSnOdKe7Kb76HEMPfkQ3DQ=="/>
         </item>
     </channel>
 </rss>
